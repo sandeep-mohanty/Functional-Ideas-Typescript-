@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "6.5.4"
+  }
+}
